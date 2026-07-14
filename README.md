@@ -4,7 +4,7 @@ Learning deep learning by building, not just reading
 Each folder contains hands-on experiments per concept.
 
 ## Progress
-- [x] Feedforward Neural Networks — FashionMNIST
+- [X] Feedforward Neural Networks — FashionMNIST
 - [ ] Convolutional Neural Networks (CNNs)
 - [ ] Transformers
 
@@ -14,4 +14,10 @@ Each folder contains hands-on experiments per concept.
 03_transformers/         — Attention, building GPT from scratch
 
 ## Key Projects
-(Will update as projects are completed)
+## Key Projects
+
+### FashionMNIST Classifier — Feedforward NN
+Trained a 3-layer feedforward neural network on FashionMNIST from scratch in PyTorch.
+Key finding: model struggles to distinguish visually similar categories 
+(Shirt/T-shirt/Pullover/Coat). Next: CNN version to compare.
+[View notebook](01_fashionmnist_feedforward_.ipynb)
