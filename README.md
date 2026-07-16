@@ -5,7 +5,7 @@ Each folder contains hands-on experiments per concept.
 
 ## Progress
 - [X] Feedforward Neural Networks — FashionMNIST
-- [ ] Convolutional Neural Networks (CNNs)
+- [X] Convolutional Neural Networks (CNNs)
 - [ ] Transformers
 
 ## Structure
