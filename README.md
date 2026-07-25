@@ -14,7 +14,6 @@ Each folder contains hands-on experiments per concept.
 03_transformers/         — Attention, building GPT from scratch
 
 ## Key Projects
-## Key Projects
 
 ### FashionMNIST Classifier — Feedforward NN
 Trained a 3-layer feedforward neural network on FashionMNIST from scratch in PyTorch.
