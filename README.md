@@ -51,3 +51,15 @@ high performance from a simple architecture.
 
 [View notebook](cnn/mnist_cnns.ipynb)
 
+
+### CIFAR-10 Classifier - CNN
+Moving on from grayscale 28 * 28 dimension images to RGB images with size 32 * 32. CIFAR-10 contains 3 color channel images across 10 different classes. These RGB color channels contain more complex spatial pattern, thus making use of CNN more important.
+Experiments would be done through how convolutional layers transform feature maps, how number of channels change throughout a network, effect of pooling on spatial dimensions, effect of Batch Normalization, Dropout and Data Augmentation followed by forward pass, loss computation, backward pass or back propagation, optimization and validation.
+
+Result: 
+
+Key finding: 
+
+
+
+
