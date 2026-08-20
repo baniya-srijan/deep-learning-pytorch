@@ -38,3 +38,16 @@ these classes have genuinely overlapping visual signatures at 28x28 resolution.
 see if capacity was the limiting factor.
 
 [View notebook](02_fashionmnist_cnns.ipynb)
+
+### MNIST Classifier - CNN
+Built and trained a convolution neural network to accurately classify handwritten digits. 
+The project focused on implementing the complete CNN workflow including convolution layers, activations,
+pooling, forward pass, loss computation, backward pass, optimization and validation
+ 
+Result: 98.82% test accuracy - extremely well but showed a little sign of overfitting
+
+Key finding: CNN was highly effective at learning spatial features from handwritten digits, thus achieving extremely
+high performance from a simple architecture. 
+
+[View notebook](cnn/mnist_cnns.ipynb)
+
